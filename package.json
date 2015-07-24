@@ -1,0 +1,11 @@
+{
+  "name": "language-antlr4",
+  "version": "0.0.1",
+  "description": "Syntax highlighting, of Antlr4 grammars, for Atom",
+  "repository": "https://github.com/Others/language-antlr4",
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  }
+}
